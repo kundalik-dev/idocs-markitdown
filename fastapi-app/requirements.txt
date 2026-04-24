@@ -1,0 +1,6 @@
+# Microsoft MarkItDown — https://github.com/microsoft/markitdown
+# Use Python 3.10–3.12 if pip fails on Windows (onnxruntime / magika constraints).
+markitdown[all]>=0.1.0
+fastapi>=0.115.0
+uvicorn[standard]>=0.32.0
+python-multipart>=0.0.9
